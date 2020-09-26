@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\RetoComponentesLab1\RetoComponentesLab1\bin\Debug\RetoComponentesLab1.exe.config
+C:\Users\Lenovo\source\repos\RetoComponentesLab1\RetoComponentesLab1\bin\Debug\RetoComponentesLab1.exe
+C:\Users\Lenovo\source\repos\RetoComponentesLab1\RetoComponentesLab1\bin\Debug\RetoComponentesLab1.pdb
+C:\Users\Lenovo\source\repos\RetoComponentesLab1\RetoComponentesLab1\obj\Debug\RetoComponentesLab1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\RetoComponentesLab1\RetoComponentesLab1\obj\Debug\RetoComponentesLab1.Form1.resources
+C:\Users\Lenovo\source\repos\RetoComponentesLab1\RetoComponentesLab1\obj\Debug\RetoComponentesLab1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\RetoComponentesLab1\RetoComponentesLab1\obj\Debug\RetoComponentesLab1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\RetoComponentesLab1\RetoComponentesLab1\obj\Debug\RetoComponentesLab1.exe
+C:\Users\Lenovo\source\repos\RetoComponentesLab1\RetoComponentesLab1\obj\Debug\RetoComponentesLab1.pdb
